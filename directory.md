@@ -1,1 +1,1 @@
-#[Directory (you are here now)](jl-young.github.io/demo/directory.html)
+#[Directory (you are here now)](https://jl-young.github.io/Demo/directory.html)
