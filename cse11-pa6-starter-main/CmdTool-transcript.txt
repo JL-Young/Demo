@@ -1,0 +1,23 @@
+java CmdTool mean 9 8 7 6 5
+7.0
+
+java CmdTool product 9 8 7 6 5 4 3 2 1
+362880
+
+java CmdTool greater 1 2 3 0 -2
+2 3
+
+java CmdTool equal 0 2 0 3 4 0
+0 0
+
+java CmdTool -l negative 0 -1 22 -40 4 -4 
+-1 -40 -4 
+
+java CmdTool -list max 4 6 7 2 6
+7
+
+java CmdTool -list product product mean 4 5 6 7
+840.0
+
+java CmdTool -list positive sum -1 2 -3 1 3 -3
+6
