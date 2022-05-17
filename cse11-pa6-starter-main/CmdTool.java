@@ -83,7 +83,7 @@ class Positive implements Command{
         }
         String[] result = new String[count];
         int index = 0;
-        for(int i = 1; i < data.length; i += 1){
+        for(int i = 0; i < data.length; i += 1){
             if(Integer.parseInt(data[i]) > 0){
                 result[index] = data[i];
                 index += 1;
